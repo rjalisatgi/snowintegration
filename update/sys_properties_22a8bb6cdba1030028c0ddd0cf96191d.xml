@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_properties">
+    <sys_properties action="INSERT_OR_UPDATE">
+        <choices>error,warn,info,debug</choices>
+        <description>&lt;b&gt;Log Verbosity Level&lt;/b&gt;&lt;br/&gt;&#13;
+&lt;b&gt;error&lt;/b&gt; - Logs events that might still allow the application to continue running. Setting the log level for an application to error generates error messages only, but does not generate warn, info, or debug messages.&lt;br/&gt;&#13;
+&lt;b&gt;warn&lt;/b&gt;  - Logs potentially harmful events. Setting the log level for an application to warn generates error and warn messages, but does not generate error or debug messages.&lt;br/&gt;&#13;
+&lt;b&gt;info&lt;/b&gt; - Logs informational messages that describe the progress of the application. Setting the log level for an application to info generates info, warn, and error messages, but does not generate debug messages.&lt;/br&gt;&#13;
+&lt;b&gt;debug&lt;/b&gt; - Logs informational events that are useful for debugging an application. Setting the log level for an application to debug generates info, warn, error, and debug messages.</description>
+        <ignore_cache>false</ignore_cache>
+        <is_private>false</is_private>
+        <name>x_151606_rohitcoup.logging.verbosity</name>
+        <read_roles/>
+        <suffix>logging.verbosity</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-09-28 23:11:46</sys_created_on>
+        <sys_id>22a8bb6cdba1030028c0ddd0cf96191d</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>x_151606_rohitcoup.logging.verbosity</sys_name>
+        <sys_package display_value="rohitCoupa" source="x_151606_rohitcoup">db0916e0db21030028c0ddd0cf9619cf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="rohitCoupa">db0916e0db21030028c0ddd0cf9619cf</sys_scope>
+        <sys_update_name>sys_properties_22a8bb6cdba1030028c0ddd0cf96191d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-09-28 23:21:20</sys_updated_on>
+        <type>choicelist</type>
+        <value>info</value>
+        <write_roles/>
+    </sys_properties>
+    <sys_translated_text action="delete_multiple" query="documentkey=22a8bb6cdba1030028c0ddd0cf96191d"/>
+</record_update>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_properties_category">
+    <sys_properties_category action="INSERT_OR_UPDATE">
+        <name>rohitCoupaConfiguration</name>
+        <sys_class_name>sys_properties_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-09-28 20:30:46</sys_created_on>
+        <sys_id>59d35b2cdb61030028c0ddd0cf9619f6</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>rohitCoupaConfiguration</sys_name>
+        <sys_package display_value="rohitCoupa" source="x_151606_rohitcoup">db0916e0db21030028c0ddd0cf9619cf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="rohitCoupa">db0916e0db21030028c0ddd0cf9619cf</sys_scope>
+        <sys_update_name>sys_properties_category_59d35b2cdb61030028c0ddd0cf9619f6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-09-28 22:13:41</sys_updated_on>
+        <title><![CDATA[<p>The Coupa ServiceNow integration will do blah blah bhah &lt;/br&gt;</p>
+<p>This is the properties page</p>
+<p> </p>
+<p> </p>]]></title>
+    </sys_properties_category>
+    <sys_translated_text action="delete_multiple" query="documentkey=59d35b2cdb61030028c0ddd0cf9619f6"/>
+</record_update>

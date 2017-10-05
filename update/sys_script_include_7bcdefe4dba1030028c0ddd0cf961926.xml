@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_151606_rohitcoup.CreateCoupaRequisition</api_name>
+        <client_callable>false</client_callable>
+        <description/>
+        <name>CreateCoupaRequisition</name>
+        <script><![CDATA[var CreateCoupaRequisition = Class.create();
+CreateCoupaRequisition.prototype = {
+	initialize: function() {
+	},
+	
+	CreateReqPayload : function(po){
+		
+	},
+	
+	CoupaReqPost: function(payload){
+		
+	},
+	type: 'CreateCoupaRequisition'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-09-28 22:26:34</sys_created_on>
+        <sys_id>7bcdefe4dba1030028c0ddd0cf961926</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CreateCoupaRequisition</sys_name>
+        <sys_package display_value="rohitCoupa" source="x_151606_rohitcoup">db0916e0db21030028c0ddd0cf9619cf</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="rohitCoupa">db0916e0db21030028c0ddd0cf9619cf</sys_scope>
+        <sys_update_name>sys_script_include_7bcdefe4dba1030028c0ddd0cf961926</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-09-28 22:26:34</sys_updated_on>
+    </sys_script_include>
+</record_update>

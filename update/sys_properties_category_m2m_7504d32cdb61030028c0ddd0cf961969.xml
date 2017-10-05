@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_properties_category_m2m">
+    <sys_properties_category_m2m action="INSERT_OR_UPDATE">
+        <category display_value="rohitCoupaConfiguration">59d35b2cdb61030028c0ddd0cf9619f6</category>
+        <order>100</order>
+        <property display_value="x_151606_rohitcoup.Coupa URL" name="x_151606_rohitcoup.Coupa URL">91073620db61030028c0ddd0cf9619d5</property>
+        <sys_class_name>sys_properties_category_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-09-28 20:31:22</sys_created_on>
+        <sys_id>7504d32cdb61030028c0ddd0cf961969</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_151606_rohitcoup.Coupa URL.rohitCoupaConfiguration</sys_name>
+        <sys_package display_value="rohitCoupa" source="x_151606_rohitcoup">db0916e0db21030028c0ddd0cf9619cf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="rohitCoupa">db0916e0db21030028c0ddd0cf9619cf</sys_scope>
+        <sys_update_name>sys_properties_category_m2m_7504d32cdb61030028c0ddd0cf961969</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-09-28 20:31:22</sys_updated_on>
+    </sys_properties_category_m2m>
+</record_update>
